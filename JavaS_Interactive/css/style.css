@@ -1,0 +1,129 @@
+/*Add CSS styles here*/
+body {
+    background-color: black;
+}
+
+/* #title {
+    /* display: inline-block;
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    background-color: red;
+    border-style: solid;
+    /* padding-top:15px;
+    padding-bottom:15px;
+} */
+/* #title p{
+    margin:0;
+} */
+/* #name {
+    display: inline-block;
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
+    text-align: center;
+} */
+
+
+.name_time {
+    font-size: 12px;
+    float: right;
+}
+
+#sidebar{
+    background-color: darkgrey;
+    opacity: 80%;
+}
+
+#sidebar h2{
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+#sidebar h4{
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+.sub_title_1 {
+    margin-top: 15px;
+    display: inline-block;
+}
+
+#sidebar p{
+    margin-top: 0px;
+    margin-bottom: 0;
+    padding-top: 0%;
+}
+
+#map { height: 670px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+#panel {  
+    width: 10%;  
+    padding: 20px;  
+    display: inline-block;  
+    vertical-align: top;  
+    text-align: center;  
+    line-height: 42px;  
+}  
+
+.sequence-control-container {  
+    width: 350px;  
+    height: 60px;  
+    background-color: rgba(255,255,255,0.8);  
+    padding: 10px;  
+    line-height: 45px;  
+    text-align: center;  
+    border: solid gray 1px;  
+}  
+
+.legend-control-container {  
+    width: 200px;  
+    height: 150px;  
+    background-color: rgba(255,255,255,0.8);  
+    padding: 10px;  
+    line-height: 0px;  
+    text-align: center;  
+    border: solid gray 1px;  
+}  
+
+.range-slider {  
+    width: 55%;  
+}  
+
+.step {  
+    width: 20%;  
+}  
+
+.step img {  
+    width: 90%;  
+    height: auto;
+}  
+
+#forward {
+    float: right;
+    height: 40px;
+    width: 45px;
+    background-color:white
+    }
+
+#reverse {  
+    float: left;
+    height: 40px;
+    width: 45px;
+    background-color:white
+}
+.slider-label{
+    font-size: 20px;
+    height:30px;
+    padding:0;
+    margin:0;
+}
