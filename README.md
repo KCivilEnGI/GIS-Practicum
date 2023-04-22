@@ -1,5 +1,5 @@
 # Git_Practicum
-## Geog778_Practicum_Testing
+## Geog778_Practicum: Yearly Ridership Data Visualization And Analysis For The Taipei Metro System In Taiwan
 <p>
   This repository is used for uploading the products developed by me in the Geog778 practicum course.<br>
   My project contains 2 products: (1) Jupyter Notebook, (2) 2D web-based interactive map. These two products are used for different kinds of audiences, and they also serve different kinds of use case scenarios.<br>
