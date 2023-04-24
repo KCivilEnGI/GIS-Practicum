@@ -2,7 +2,7 @@
 <p>
   This repository contains the products developed by me in the Geog778 practicum course.<br>
   My project contains 2 products: <br>
-  (1) Jupyter Notebook <br> 
+  (1) Jupyter Notebook including workflow documentation and 3D time-series histogram interactive map<br> 
   (2) 2D web-based interactive map. <br>
   These two products are used for different kinds of audiences, and they also serve different kinds of use case scenarios.<br>
    <br>
