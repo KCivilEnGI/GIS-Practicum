@@ -2,13 +2,15 @@
 
 <p>
   This repository contains the products developed by me in the Geog778 practicum course.<br>
+  The time for the dataset starts at the year 2015 and ends at the year 2022.<br>
   My project contains 2 products: <br>
   (1) Jupyter Notebook including workflow documentation and 3D time-series histogram interactive map. (created in Python)<br> 
   (2) 2D web-based time-series interactive map. (created in JavaScript/HTML/CSS)<br>
   These two products are used for different kinds of audiences, and they also serve different kinds of use case scenarios.<br>
    <br>
   The Jupyter Notebook gives a working guideline to organize and visualize the data for technical users, such as GIS Analysts. The project topic is set to the dataset comes from Taiwan where GIS Analysts are not common, so I believe my way to do it can be a very good reference for them. The guideline can also be used by analysts in other countries or regions where GIS technology is just imported. <br>
-  The following is the preview of the final visualization and its time controller: (widget)<br>
+  The following is the preview of the final visualization and its time controller:<br>
+  (It can be either manually used as a slider controller or to click play button to automatically shows from the start to the end)<br>
   
   ![3d_histogram](3D_Histogram.jpg)
   
