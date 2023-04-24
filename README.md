@@ -1,7 +1,10 @@
 # Yearly Ridership Data Visualization And Analysis For The Taipei Metro System In Taiwan
 <p>
   This repository contains the products developed by me in the Geog778 practicum course.<br>
-  My project contains 2 products: (1) Jupyter Notebook, (2) 2D web-based interactive map. These two products are used for different kinds of audiences, and they also serve different kinds of use case scenarios.<br>
+  My project contains 2 products: <br>
+  (1) Jupyter Notebook <br> 
+  (2) 2D web-based interactive map. <br>
+  These two products are used for different kinds of audiences, and they also serve different kinds of use case scenarios.<br>
    <br>
   The Jupyter Notebook gives a working guideline to organize and visualize the data for technical users, such as GIS Analysts. The project topic is set to the dataset comes from Taiwan where GIS Analysts are not common, so I believe my way to do it can be a very good reference for them. The guideline can also be used by analysts in other countries or regions where GIS technology is just imported. <br>
    <br>
