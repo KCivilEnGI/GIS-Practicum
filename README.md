@@ -1,8 +1,7 @@
 # Yearly Ridership Data Visualization And Analysis For The Taipei Metro System In Taiwan
 
 <p>
-  This repository contains the products developed by me in the Geog778 practicum course.
-  The time for the dataset starts at the year 2015 and ends at the year 2022.<br>
+  This repository contains the products developed by me in the Geog778 practicum course. The time for the dataset starts at the year 2015 and ends at the year 2022.<br>
   My project contains 2 products: <br>
   (1) Jupyter Notebook including workflow documentation and 3D time-series histogram interactive map. (created in Python)<br> 
   (2) 2D web-based time-series interactive map. (created in JavaScript/HTML/CSS)<br>
