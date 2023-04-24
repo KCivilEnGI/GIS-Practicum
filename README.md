@@ -13,5 +13,7 @@
   
    <br>
   The 2D web-based interactive map is intended to serve as an alternative way for audiences that do not have a technical background, so they do not need to set up their environment just for exploring the content of the map. The only thing they need will be a web browser. In addition, this map is easier for users to navigate and also provides the context about the project and the background information about the topic which will be much more friendly for people who are not involved in this industry.
+  
+  ![2D_proportional](2D_webMap.jpg)
 </p>
 
